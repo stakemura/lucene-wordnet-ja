@@ -1,4 +1,4 @@
-swearing,ののしり,ののしりの言葉,罵り,下品な言葉,swearword,oath,悪罵,expletive,悪態,curse,冒涜的な間投詞,curse word,cuss,罰当たりな言葉
+ï»¿swearing,ののしり,ののしりの言葉,罵り,下品な言葉,swearword,oath,悪罵,expletive,悪態,curse,冒涜的な間投詞,curse word,cuss,罰当たりな言葉
 expletive,虚字
 morbilli,measles,はしか,rubeola,麻疹
 cow man,牛飼い,beef man,cattleman

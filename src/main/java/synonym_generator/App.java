@@ -75,6 +75,12 @@ public class App
 			
 			File outputFile = new File(app.outputPath);
 			FileWriter wr = new FileWriter(outputFile , false);
+			
+			// Write UTF-8 BOM( EF BB BF ) 
+			wr.write( 0xef );  
+			wr.write( 0xbb );  
+			wr.write( 0xbf ); 
+            
 			BufferedWriter bw = new BufferedWriter(wr);
 			PrintWriter pw = new PrintWriter(bw);
 			
